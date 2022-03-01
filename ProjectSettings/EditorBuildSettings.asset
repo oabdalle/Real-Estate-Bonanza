@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 848220174337f4e99b7afe3093852ab2
+  - enabled: 1
+    path: Assets/Scenes/StartingScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/FirstCouple.unity
+    guid: bf2e64c03ddb244c08d74c8489873b61
+  - enabled: 1
+    path: Assets/Scenes/FirstHome.unity
+    guid: ea87022d277d34c9987d24a59957700b
+  - enabled: 1
+    path: Assets/Scenes/SecondHome.unity
+    guid: bad3cf1e22176414cb863bc923b0d25b
+  - enabled: 1
+    path: Assets/Scenes/ThirdHome.unity
+    guid: 114138bf040c244b1bc2c6643a1ea958
+  - enabled: 1
+    path: Assets/Scenes/FirstCoupleDeal.unity
+    guid: 7660f648ed28e43f49664a9ef3524d1b
+  - enabled: 1
+    path: Assets/Scenes/Office.unity
+    guid: f3ff78b0276db41a3a6dc8f69143eede
+  - enabled: 1
+    path: Assets/Scenes/SecondCouple.unity
+    guid: bbb79627371574bc3bc569e7570c348e
+  - enabled: 1
+    path: Assets/Scenes/FirstOldHome.unity
+    guid: 2aee954f49c7a409b90a1fadc9a91250
+  - enabled: 1
+    path: Assets/Scenes/SecondOldHome.unity
+    guid: e0648ec64edce430bb8650f55a4a7937
+  - enabled: 1
+    path: Assets/Scenes/ThirdOldHome.unity
+    guid: 0b59fbeea9c0a4dc4a1913bd363965cd
+  - enabled: 1
+    path: Assets/Scenes/SecondCoupleDeal.unity
+    guid: 62a51b18e61934e548ecd1609118f147
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: df0b4b3ad00554b39b2c9b778bd79e9b
+  m_configObjects: {}
